@@ -1,0 +1,14 @@
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/libyoke-d14dd27ae317806d.rmeta: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/cartable_ptr.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/either.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/erased.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/kinda_sorta_dangling.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/macro_impls.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/trait_hack.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/yoke.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/yokeable.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/zero_from.rs
+
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/yoke-d14dd27ae317806d.d: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/cartable_ptr.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/either.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/erased.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/kinda_sorta_dangling.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/macro_impls.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/trait_hack.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/yoke.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/yokeable.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/zero_from.rs
+
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/lib.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/cartable_ptr.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/either.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/erased.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/kinda_sorta_dangling.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/macro_impls.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/trait_hack.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/yoke.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/yokeable.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yoke-0.7.4/src/zero_from.rs:

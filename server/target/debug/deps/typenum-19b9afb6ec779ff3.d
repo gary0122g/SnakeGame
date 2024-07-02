@@ -1,0 +1,17 @@
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/libtypenum-19b9afb6ec779ff3.rmeta: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out/op.rs /Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out/consts.rs
+
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/typenum-19b9afb6ec779ff3.d: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs /Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out/op.rs /Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out/consts.rs
+
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/lib.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/bit.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/int.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/marker_traits.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/operator_aliases.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/private.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/type_operators.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/uint.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.17.0/src/array.rs:
+/Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out/op.rs:
+/Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out/consts.rs:
+
+# env-dep:OUT_DIR=/Users/gary/Desktop/rust/snake_game/target/debug/build/typenum-27877dd31cce976c/out

@@ -1,0 +1,14 @@
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/libuuid-ddbfd828bae8ea10.rmeta: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/v4.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/rng.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs
+
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/uuid-ddbfd828bae8ea10.d: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/v4.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/rng.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs
+
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/v4.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/rng.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs:

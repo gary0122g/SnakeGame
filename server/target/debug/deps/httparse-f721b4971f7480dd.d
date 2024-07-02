@@ -1,0 +1,12 @@
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/libhttparse-f721b4971f7480dd.rmeta: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/iter.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/macros.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/swar.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/neon.rs
+
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/libhttparse-f721b4971f7480dd.rlib: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/iter.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/macros.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/swar.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/neon.rs
+
+/Users/gary/Desktop/rust/snake_game/target/debug/deps/httparse-f721b4971f7480dd.d: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/iter.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/macros.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/swar.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/neon.rs
+
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/lib.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/iter.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/macros.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/mod.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/swar.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.3/src/simd/neon.rs:
