@@ -1,0 +1,11 @@
+/Users/gary/Desktop/rust/websocket/target/debug/deps/libenv_logger-9db3117fc2fdfd3a.rmeta: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/logger.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/humantime.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/buffer.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/target.rs
+
+/Users/gary/Desktop/rust/websocket/target/debug/deps/env_logger-9db3117fc2fdfd3a.d: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/logger.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/humantime.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/mod.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/buffer.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/target.rs
+
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/lib.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/logger.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/mod.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/humantime.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/mod.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/buffer.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.3/src/fmt/writer/target.rs:

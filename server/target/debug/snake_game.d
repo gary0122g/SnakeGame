@@ -1,1 +1,0 @@
-/Users/gary/Desktop/rust/snake_game/target/debug/snake_game: /Users/gary/Desktop/rust/snake_game/src/client.rs /Users/gary/Desktop/rust/snake_game/src/game.rs /Users/gary/Desktop/rust/snake_game/src/main.rs /Users/gary/Desktop/rust/snake_game/src/snake.rs

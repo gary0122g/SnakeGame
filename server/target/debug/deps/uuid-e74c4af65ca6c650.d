@@ -1,0 +1,12 @@
+/Users/gary/Desktop/rust/websocket/target/debug/deps/libuuid-e74c4af65ca6c650.rmeta: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs
+
+/Users/gary/Desktop/rust/websocket/target/debug/deps/uuid-e74c4af65ca6c650.d: /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs /Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs
+
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/lib.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/builder.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/error.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/parser.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/fmt.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/timestamp.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/external.rs:
+/Users/gary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.8.0/src/macros.rs:

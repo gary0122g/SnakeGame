@@ -1,7 +1,10 @@
+
+
 [package]
-name = "snake_game"
+name = "client"
 version = "0.1.0"
-edition = "2021"
+edition = "2018"
+
 
 
 [dependencies]
@@ -21,3 +24,4 @@ features = [
     "fast-rng",          # Use a faster (but still sufficiently random) RNG
     "macro-diagnostics", # Enable better diagnostics for compile-time UUIDs
 ]
+
